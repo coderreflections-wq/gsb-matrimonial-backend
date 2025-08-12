@@ -1,0 +1,11 @@
+{
+  "require": {
+    "php": "^8.0",
+    "laravel/framework": "^10.0",
+    "tymon/jwt-auth": "^1.0",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "require-dev": {
+    "laravel/breeze": "^1.13"
+  }
+}
